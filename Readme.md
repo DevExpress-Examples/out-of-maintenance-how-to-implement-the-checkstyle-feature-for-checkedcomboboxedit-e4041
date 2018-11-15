@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomCheckedComboBoxEdit.cs](./CS/CustomEdit/CustomCheckedComboBoxEdit.cs) (VB: [CustomCheckedComboBoxEdit.vb](./VB/CustomEdit/CustomCheckedComboBoxEdit.vb))
+* [Form1.cs](./CS/CustomEdit/Form1.cs) (VB: [Form1.vb](./VB/CustomEdit/Form1.vb))
+* [GridRowData.cs](./CS/CustomEdit/GridRowData.cs) (VB: [GridRowData.vb](./VB/CustomEdit/GridRowData.vb))
+* [Program.cs](./CS/CustomEdit/Program.cs) (VB: [Program.vb](./VB/CustomEdit/Program.vb))
+* [RepositoryItemCustomCheckedComboBoxEdit.cs](./CS/CustomEdit/RepositoryItemCustomCheckedComboBoxEdit.cs) (VB: [RepositoryItemCustomCheckedComboBoxEdit.vb](./VB/CustomEdit/RepositoryItemCustomCheckedComboBoxEdit.vb))
+<!-- default file list end -->
 # How to implement the CheckStyle feature for CheckedComboBoxEdit
 
 
